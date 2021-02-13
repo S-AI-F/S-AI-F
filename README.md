@@ -1,12 +1,19 @@
 ### Hi there 👋
 
 Hello,
+
 My name is Saif Shabou. I live in France.
+
 I like using data to solve problems and understand phenomenon, especially those related to environmental issues 🌍.
+
 I am deeply convinced of the importance of opening knowledge, data and codes ⚡.
+
 I share in this github some personal data science projects: tutorials, analaysis, web appas...
+
 If you want to know more about my projects, you can check my website: https://saif-shabou.netlify.app/
+
 I like collaborating with people, so if you are workin in an interesting data project related to climate change and environmental issues, DON'T HESITATE TO CONTACT ME!!
+
 I would be delighted to help you 😄
 
 
