@@ -8,7 +8,7 @@ I like using data to solve problems and understand phenomenon, especially those 
 
 I am deeply convinced of the importance of opening knowledge, data and codes ⚡.
 
-I share in this github some personal data science projects: tutorials, analaysis, web appas... 🔭
+I share in this repository some personal data science projects: tutorials, data analysis, web applications... 🔭
 
 If you want to know more about my projects, you can check my website: https://saif-shabou.netlify.app/
 
