@@ -2,7 +2,7 @@
 
 Hello,
 
-My name is Saif Shabou. I live in France.
+My name is Saif Shabou. I live in the Netherlands.
 
 I like using data to solve problems and understand phenomenon, especially those related to environmental issues 🌍.
 
